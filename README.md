@@ -2,7 +2,7 @@
 
 Lab2 Assignment done at SAIT
 
-
+C# Windows Application in ASP.NET 5.0
 
 This program is designed to add customer info and display on a listbox 
 The electricity bill is calculated based on number of kWh for each customer
