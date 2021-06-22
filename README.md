@@ -1,6 +1,6 @@
 # Electric_Bills
 
-Lab2 Assignment done at SAIT
+Lab2 Assignment
 
 Visual Studio 2019, C# Windows Application in ASP.NET 5.0
 
